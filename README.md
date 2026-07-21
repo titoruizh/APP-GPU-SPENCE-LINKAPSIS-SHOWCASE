@@ -1,8 +1,8 @@
-# Project A — GPU-Accelerated Geospatial Processing for Mining
+# APP GPU-Accelerated Geospatial Processing for Mining
 
 > A production-oriented desktop application for large-scale LiDAR, raster, and coordinate-processing workflows, combining a modern Electron/React interface with a custom Python geospatial engine accelerated by NVIDIA CUDA.
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1ed2e485-f957-493b-8e7f-ae0c30fe93fe" />
+<img width="1272" height="541" alt="image" src="https://github.com/user-attachments/assets/1ed2e485-f957-493b-8e7f-ae0c30fe93fe" />
 
 
 ---
