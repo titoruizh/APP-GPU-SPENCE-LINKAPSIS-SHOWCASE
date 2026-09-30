@@ -20,8 +20,6 @@ The application separates the user interface from the processing engine:
 * **CuPy / CUDA** accelerate high-volume numerical operations when an NVIDIA GPU is available.
 * **NumPy CPU fallbacks** allow the same workflows to continue on systems without sufficient GPU resources.
 
-The original production environment and client-specific configuration have been intentionally anonymized in this public showcase.
-
 ---
 
 ## Key Results
